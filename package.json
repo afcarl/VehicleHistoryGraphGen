@@ -1,0 +1,17 @@
+{
+  "name": "vehiclehistorygenerator",
+  "version": "0.0.1",
+  "description": "A generator for the OrientDB VehicleHistoryGraph demo database",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Greg McCarvell",
+  "license": "BSD",
+  "dependencies": {
+    "bluebird": "~2.3.11",
+    "chance": "~0.6.3",
+    "oriento": "~0.5.2",
+    "moment": "~2.8.4"
+  }
+}
