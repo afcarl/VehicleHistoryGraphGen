@@ -44,13 +44,4 @@ Person.generatePeople(totalPeople, db)
 				console.log('Data has finished generating');
 				process.exit(code = 0);
 			})
-	})
-
-<<<<<<< HEAD
-
-
-=======
->>>>>>> 4054ff018ce233b6d1fd1a56b102f90aea8f7aa1
-
-	//Manufacturer purchase
-	//subsequent randomized purchases
+	});
